@@ -5,7 +5,7 @@
     "files": [
         "lib/**/*"
     ],
-    "author": "Ali Allaf <ali.allaf@hypatia.tech>",
+    "author": "Hannes",
     "license": "MIT",
     "description": "A simple way to sync between WatermelonDB and Firebase Firestore",
     "types": "lib/index.d.ts",
@@ -22,7 +22,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/AliAllaf/firemelon.git"
+        "url": "git+https://github.com/Hannes1/firemelon.git"
     },
     "keywords": [
         "Firestore",
@@ -40,7 +40,6 @@
         "@babel/plugin-proposal-decorators": "^7.10.4",
         "@babel/plugin-transform-runtime": "^7.10.4",
         "@firebase/app": "^0.6.7",
-        "@firebase/testing": "^0.20.5",
         "@grpc/proto-loader": "^0.5.4",
         "@types/jest": "^26.0.4",
         "@types/lodash": "^4.14.157",
