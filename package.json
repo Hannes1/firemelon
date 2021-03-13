@@ -57,6 +57,7 @@
         "typescript": "^3.9.6",
         "wait-on": "^5.0.3",
         "worker-loader": "^2.0.0"
+
     },
     "dependencies": {
         "@nozbe/watermelondb": "^0.20.0",
